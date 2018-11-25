@@ -6,7 +6,6 @@ using namespace std;
 
 int a;
 int b;
-bool doRepeat;
 bool invalidInput;
 
 int getNumbers() {
